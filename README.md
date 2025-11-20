@@ -4,7 +4,7 @@ A small front-end project that recreates an interactive desk lamp using **pure H
 The lamp can be turned ON and OFF using a custom switch, and the animation simulates a neon-style light beam.
 
 <p align="center">
-  <img src="lamp_600px.gif" alt="Interactive Lamp Demo">
+  <img src="lamp.gif" alt="Interactive Lamp Demo">
 </p>
 
 ---
