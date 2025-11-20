@@ -3,7 +3,9 @@
 A small front-end project that recreates an interactive desk lamp using **pure HTML & CSS**.  
 The lamp can be turned ON and OFF using a custom switch, and the animation simulates a neon-style light beam.
 
-![Lamp Demo](lamp.gif)
+<p align="center">
+  <img src="lamp_600px.gif" alt="Interactive Lamp Demo">
+</p>
 
 ---
 
